@@ -4,7 +4,7 @@
 const aboutMe = {
 	name: "Nikul Patel",
 	pronouns: "he" | "him",
-	code: [Javascript, NodeJS, PHP],
+	code: [Javascript, NodeJS],
 	technologies: {
 		frontEnd: {
 			js: ["React", "NextJS"],
